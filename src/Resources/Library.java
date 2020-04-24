@@ -77,5 +77,17 @@ public class Library {
         return 123;
     }
 
+    public static int Frequency(String str, char ch) {  // count the char frequency
+        char[] arr = str.toCharArray();  //[A, A, A]
+
+        int count = 0;
+        for (char each : arr) {  //3
+            if (each == ch) {
+                count++;
+            }
+        }
+        return count;
+    } // str, char
+
 
 }
