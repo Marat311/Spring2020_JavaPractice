@@ -24,7 +24,7 @@ public class ForEachLoop {
 
        for (int each: arr2){
            if(each %2 ==0){
-               System.out.print(each);  // even
+               System.out.print(each);  // even 246810
            }
 
        }
