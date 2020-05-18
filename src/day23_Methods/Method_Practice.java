@@ -8,6 +8,7 @@ package day23_Methods;
                     step 6: Hello World 5 times
  */
 public class Method_Practice {
+
     public static void main(String[] args) {
 
         System.out.println("Hello Cybertek");  //step1

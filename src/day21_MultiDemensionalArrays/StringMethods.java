@@ -12,7 +12,7 @@ public class StringMethods {
         System.out.println(chars[3]);  //'a'
 
         String str = "I like Java";
-        String [] arr = str.split(" ");
+        String [] arr = str.split(" "); // split the string
 
         System.out.println(Arrays.toString(arr));
 

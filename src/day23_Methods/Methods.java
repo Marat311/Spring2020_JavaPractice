@@ -11,6 +11,7 @@ Access_modifier specifier return-type metodName(){
                     step 7: Hello World 5 times
  */
 public class Methods {
+
     public static void main(String[] args) {
 
         System.out.println("Hello Cybertek");
@@ -24,6 +25,7 @@ public class Methods {
         evenNumbers1_100();
         OddNumbers1_100();
     }
+
     public static void printHello5(){
         for(int i = 0; i<5; i++){
             System.out.println("Hello World");

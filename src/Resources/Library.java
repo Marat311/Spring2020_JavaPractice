@@ -27,7 +27,7 @@ public class Library {
         }
 
         return  Reverse;
-    }   // reverse
+    }   // reverse 123 ==> 321
 
  // remove duplicates from string
 

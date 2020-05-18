@@ -3,6 +3,7 @@ package day23_Methods;
 import java.util.Scanner;
 
 public class Methods_WithParameters {
+
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         System.out.println("Enter your age");

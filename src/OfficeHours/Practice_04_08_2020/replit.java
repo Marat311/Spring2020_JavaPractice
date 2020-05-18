@@ -28,6 +28,8 @@ public class replit {
         //158/3=52.666
         //52*3=156 and 2 reminder
     }
+
+
 }
 
 
